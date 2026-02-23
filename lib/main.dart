@@ -3,7 +3,7 @@ import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:schedule_generator_app/home/home_view.dart';
 import 'package:schedule_generator_app/splash/splash_screen.dart';
 
-const String apiKey = "AIzaSyBAkceE9UXNhdoXWFAZT5WdnWzS57zJX-c";
+const String apiKey = "AIzaSyCES-iqwlPDOT_yIMiNKylPtjqgd2jfgNY";
 
 void main() {
   Gemini.init(apiKey: apiKey);
